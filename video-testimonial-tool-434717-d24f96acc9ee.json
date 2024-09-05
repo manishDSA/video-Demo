@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "video-testimonial-tool-434717",
+  "private_key_id": "d24f96acc9eea82169c06a96b7317dc6c47905eb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDIDbLO9NM/3R5E\nm0YTpt1kC0V1o3qixdX4i+wKpFFqsdp52wWL3b+yDVcy6Iagrx2YRUaM25at5lna\nFqs7yjQJ9OtJ9ZyByxI7zTCEq+Elkosu6pvnQ1vcLqStFq8i3XhH0R/mW1eSXeX5\nqT3nnY80jbBJVz/QuOn4or0c7Gtt14lAmfIAVRPWI1VQF6xlME52P9U+wp55jomu\nn1W9ta35BbpVSOXdGQNBcx7ZIJYO34KQLGI+IQqBsfyxBmgSYLmpkMXFnzFM9ymN\nxAMEosMPk9bjuE7XiJV/C+ep9/2+1/l1WrWmnWiWlI1viK04LVGjcNPXUz8GvUsm\nGadZUrrNAgMBAAECggEAIiq8xD3qKnkgZ0VBta+FFkYaidnu4wf44Gc9XB/uS9Ou\nZatzigzIZaeDog02mRDvdAc44mvKk07JP8cpXZ/OPXkYClypaz18krwbsj0Myfb6\nUHv/PoMxmCxbMbizFrhOh61+zkABd90Tnw05pmoxgB9G4W/GVWaPh0h8FgmG245r\n8+qso3VLTB1weR51EWQ/5pkc5nmMZ38BcO+cqATDf2ku2yMaP2ie6krRQhNo1KdE\n2yNlYusCxPNSCXII4M8AqJ9YpE2R0bHbHIld6seJthgIm39MPHDGCv92I3UhHg/o\nl5Yhz4ueTNSh326uHQ5kgp2Nh1iKNs8BDM2PQ7YrIQKBgQDj0A/vT4UGQjEqByLk\nUyKji9ZYp/bNfpz4PfLPRJa2rpsHXR21wXeTTa7uLzDlQEEu1sIerOAT/WueGVOp\nbe7+16QFbE6Y/rk3766639n9RxJiohWLrtnqpjgsMAo6iav/PoGrGg1Qj4pP86+d\nfHVw6LpyJDYiRJEr3/rtl3oYZQKBgQDgzl3Dsx/Ps4mWYRBzofQFpnAVypb2lHKE\nyybxSouMObparaeN0snAk3X65T/hSwlsHmjbVcdojfhmq+o5MOxg68T4zbnBSQMI\nC6BaRwMszfpQSlRAM/sGJ60fSgHI5fenzBFAB6WqR7L4NGhiX7HlPB4ZrgjhlQTm\noDJZBxdOSQKBgAnBAM2oQ/POpbg88fuAq70A4b6OAn0t7J6cWGcTcriDpVOdYwZD\nMFF4RAMith86rw/IVitmD3oLoa31O6XHdTIoHXe1+W+HiHqiooKRzw2PG3RpqC6A\n4Aex8jnCHM4A0wJstLSUuvk2DB/8OQqvJ4AcFs+ISWESOnz8bAv8LlgZAoGBAMgJ\nWY3mOgxLqcZSIJ2EIutUKrB5UNOhTDW1v7U9q+bfB1/g3hNo2XWuwXC7xZfneT7n\n4E4rigETM1HI7+ZsDipAIUlzZjMDkNr73Xf3cG/R6UbAnS90EY5sh7Qr2mK1nyWE\nhGUBaPyYSDxsBeZjWJyuXepj3is8utus+KAXmzlhAoGASGLtFOYo0+kem/0LcC5j\n74TAx4l+xPBXzXX0izwgXt1eddLZBGt4rYPyOVSCqLZCPwm6rtsY9HcmE8+Wpduv\nr15rKMlznmhQ2lASkaByMgyAdtlGrDr/yPS6IS1z5wJ5B1DvelL7NMc0tcT+/ODi\nyvKH03NY7hJ0Rcns8mXaBHA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "video-testimonial-tool-service@video-testimonial-tool-434717.iam.gserviceaccount.com",
+  "client_id": "110822531336108231191",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/video-testimonial-tool-service%40video-testimonial-tool-434717.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
