@@ -5,7 +5,7 @@ const videoElement= document.getElementById('preview')
 let mediaRecorder;
 let recordedChunks= [];
 
-startButton.onclick= async()=>{
+startButton.onclick= async()=>{   
  try{
     const stream= await navigator.mediaDevices.getUserMedia({video:true, audio:true})
     videoElement.srcObject= stream;

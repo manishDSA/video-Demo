@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "video-recorder-app-434815",
+  "private_key_id": "bf7caa05ba48b692d371343a680fa300fd05ee58",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDA1gfQdnjaazDP\nHSWix/SnAGgv33ddP771G2fqBwo+de/48jjDaMv3i6c/lRMVidfrFPjpygJn/971\n9T2tm1zEEvmDH5REqsUb2dosShwIRnGe0s6DJUjb0P1B6R/hiSJGVhYKV9vqtYl0\nXXXV6eOX52neoOccrFKNckieuR5DswRc1qtP1nhoyfKW71iwv7XtqTt73iy5Cdz9\nJNHw208QV5GVB7uvroh0mtcPNOn6lXmpLI/3XazzWPY7+i+IXFrtwMsFy+qHFpry\ntRTY/8I34GGIBkBjo8P4y9o00MVTusx7oBZRHV5J/jB/LY3SiiB+uJKUCmocoAJB\n8bNvS0KXAgMBAAECggEABacAaaLfXf+gWaHQFZpo2HBRnX2eYRRaQ5L/E8QLD9Oj\nKhfnhArRV7s3Nszm103ID3L47NloAqZkYa9DlJAmQvUPbUGCthSPXIahN4UglzmB\nYRdqyDtSjGbu1XzA23qKj6c8VCdJIfMaSVfn+VI2wqAc4VK0E4oVjWHZMRXaBj/v\nDUdwEi8RVwNrk5EPz15uUStqcXqaIY2OInUpbzfPi9+0R5ra01RITpDu0yuBTYTv\nAGlVZhp91BiFEyGKrpJ982gDeSaTH2VZl4YtwsVMv9WTs69eBAR0/skxubI8jG/8\nBG8sTeofn/yv1Ltyq0Wz1x7fbXUSj3iaMMDx7X62OQKBgQDe6wQGiqJlvzigrpOo\njwopGytX2rHV0RSxHZCfuk4zYbvWHeGi/4KmvvSyiLqMGk+MfKgVXa5qo5E5EaZc\nadVlkKLGxDeSFY0KrHLXC9MaPOc12eOV5loCMzh63wf16tds6zUmAmkXg4nWbyRJ\n1dZsJG2EA55WJSXexHY/tniUnQKBgQDddCgE528J/UoUEy8grquY3oVnTvF9IdYH\nfZckb7BSOqKkPH6o2u9LipKiUA/1hvRuyzCuYbp2Vu4YoYQ5c2Sj0dx3gfCHFvz4\nxSgVbeH1hahXWxpPazwHb7p73kBy1bGa8azOUD8QyeC4OXGw5qn2E00/0+ub9Oxk\nE2LXNiObwwKBgQC+uwLkvfWZbPV8tiJs1IZzCWYac2o5cf1sVcmKgROr7vGSkFqg\n5lHZbgVcRJSoj1KE95uxPEihwXXeCHX5GCyYDBraSsTpXzsgaNCRovJqvrVtZBLQ\nDRnyS/UFXJMpHFhaPx1oeiOFFOz45nt8GVSvjrONgrMVLg+q/RnYBb5CGQKBgGKF\n/Av6fw89rghyZIQw0c0oKsfEenHGbPdWK7kdK5/Z0GQrOdqb1NyR4Rzva7o7eWIV\naioa9p8Rm8o/iZkZuouboW9V0xH260MuS+AEzAO0nCmJMZJlzgYs8hWL0raEVgju\nPohncTdh6WVswSUH6lO9UJ/2A5uWAtmfOlkvD/aLAoGARX7ud7rVxxzRtexnb56n\n5wn2sJP9JrE2q9qbr1JlJFMOnnmC7vAEDPjud6AXjeEkUI8Srgy9WAfVWjimTjJN\nUbTl+SU8NhhvIgHyqsur25sw111CrmIimZZUZjCOZo3O0m3ZLqTjZtH/OTpejP2W\nzYIm5T4MuL9mFows3R2ogfQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "video-recorder-tool@video-recorder-app-434815.iam.gserviceaccount.com",
+  "client_id": "107456497454925772567",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/video-recorder-tool%40video-recorder-app-434815.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

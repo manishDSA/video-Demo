@@ -29,13 +29,14 @@ const upload= multer({dest:"uploads/"})
         console.log("File recevied:",req.file);
         
         const auth = new google.auth.GoogleAuth({
-            keyFile:"video-testimonial-tool-434717-d24f96acc9ee.json",
+            keyFile:"video-recorder-app-434815-bf7caa05ba48.json",
+
             scopes: ["https://www.googleapis.com/auth/drive.file"],
         });
         const driveService = google.drive({ version:"v3", auth});
         const fileMetadata= {
             name:`${req.file.originalname}`,
-            parents: ["1SnCEiNODGr99ZeTQgZr1UGfG4G79JI6v"],
+            parents: ["1NC2vmvkRvaygJ8blNqmKt5CJBhG34XKY"],
         };
         const media ={
             mimeType:req.file.mimetype,
